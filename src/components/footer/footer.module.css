@@ -1,0 +1,18 @@
+.body {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: red;
+  color: white;
+  padding: 40px 0;
+  margin-top: 40px;
+}
+.body a {
+  color: white;
+}
+.body > div {
+  display: flex;
+  align-items: center;
+}

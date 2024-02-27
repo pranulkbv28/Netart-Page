@@ -1,0 +1,16 @@
+.body{
+    display: flex;
+    align-items: center;
+}
+/* .body>div{
+    width: 50%;
+} */
+.trophyContainer{
+    width: 30%;
+}
+.handshakeContainer{
+    width: 70%;
+}
+.body>div img{
+    width: 100%;
+}

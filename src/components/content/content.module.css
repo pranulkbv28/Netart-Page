@@ -1,0 +1,21 @@
+.body{
+    width: 100%;
+}
+.heading{
+    text-align: center;
+}
+.body>figure{
+    width: 80%;
+    margin: 0 auto;
+}
+.body>figure>img{
+    width: 100%;
+}
+.body>figure>figcaption{
+    text-align: center;
+}
+.body>hr{
+    width: 95%;
+    border: 2px solid rgb(145, 0, 0);
+    margin: 20px auto;
+}

@@ -1,0 +1,13 @@
+.App {
+  background: rgb(218, 179, 80);
+  background: linear-gradient(
+    0deg,
+    rgba(218, 179, 80, 0.7036064425770308) 0%,
+    rgba(255, 255, 255, 1) 99%
+  );
+  padding: 8px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
